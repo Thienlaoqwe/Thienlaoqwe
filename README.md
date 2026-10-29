@@ -46,8 +46,8 @@ struct thienlao {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thienlaoqwe/Thienlaoqwe/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thienlaoqwe/Thienlaoqwe/output/snake.svg" />
-    <img src="https://raw.githubusercontent.com/Thienlaoqwe/Thienlaoqwe/output/snake-dark.svg" alt="contribution snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thienlaoqwe/Thienlaoqwe/output/snake-dark.svg?v=mono" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thienlaoqwe/Thienlaoqwe/output/snake.svg?v=mono" />
+    <img src="https://raw.githubusercontent.com/Thienlaoqwe/Thienlaoqwe/output/snake-dark.svg?v=mono" alt="contribution snake" />
   </picture>
 </p>
