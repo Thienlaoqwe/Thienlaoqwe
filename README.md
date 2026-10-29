@@ -1,58 +1,47 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:3b0a5c,100:7f1dff&height=190&section=header&text=Max&fontSize=64&fontColor=f0e6ff&fontAlignY=36&desc=low-level%20C%2B%2B%20%E2%80%A2%20reverse%20engineering%20%E2%80%A2%20real-time%20rendering&descSize=17&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="Max" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:161616&height=170&section=header&text=thienlao&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=low-level%20C%2B%2B%20%C2%B7%20reverse%20engineering%20%C2%B7%20real-time%20rendering&descSize=16&descAlignY=72&descColor=9a9a9a" width="100%" alt="thienlao" />
 
-<a href="https://github.com/Thienlaoqwe">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=B07CFF&center=true&vCenter=true&width=640&lines=Game+engine+internals+%E2%80%94+Source+2;Direct3D+11+render+passes+%26+shaders;Embedded+V8+scripting+runtimes;Reading+x64+so+you+don't+have+to" alt="typing" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=1000&color=FFFFFF&center=true&vCenter=true&width=620&lines=game+engine+internals+%E2%80%94+Source+2;Direct3D+11+render+passes+%26+shaders;embedded+V8+scripting+runtimes;reading+x64+so+you+don't+have+to" alt="typing" />
 
 </div>
 
----
-
-### `whoami`
+<br/>
 
 ```cpp
-struct Max {
+struct thienlao {
     const char* focus[4] = {
         "game engine internals (Source 2)",
         "reverse engineering x64 binaries",
         "real-time rendering on D3D11",
         "runtimes & tooling in modern C++",
     };
-    const char* stack   = "C++20 / C / Python / JavaScript";
-    const char* editor  = "Visual Studio + IDA Pro";
-    bool        sleeps  = false;
+    const char* editor = "Visual Studio + IDA Pro";
+    bool        sleeps = false;
 };
 ```
 
-### What I build
+#### what i build
 
-- **Engine-side tooling** — schema & RTTI-driven class discovery, pattern scanning, network-var change callbacks, entity system walkers
-- **Rendering** — custom D3D11 passes over the game's HDR target: post effects, material overrides, live previews rendered into shared render targets
-- **Scripting** — an embedded V8 runtime with a sandboxed API: permissions, timers, promises, a watchdog, GC telemetry and per-call profiling
-- **UI** — ImGui frameworks with draggable HUD layouts, and bridges into the game's own Panorama UI
-- **Performance** — frame-pacing and hitch diagnostics down to which call stalled which thread
+- **engine tooling** — schema & RTTI-driven class discovery, pattern scanning, network-var change callbacks, entity system walkers
+- **rendering** — custom D3D11 passes over the game's HDR target: post effects, material overrides, live previews in shared render targets
+- **scripting** — an embedded V8 runtime with a sandboxed API: permissions, timers, promises, a watchdog, GC telemetry, per-call profiling
+- **ui** — ImGui frameworks with draggable HUD layouts, bridges into the game's own Panorama UI
+- **performance** — frame pacing and hitch diagnostics, down to which call stalled which thread
 
-### Stack
+#### stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,py,js,ts,cs,windows,visualstudio,vscode,git,github,cmake&theme=dark&perline=12" alt="stack" />
+  <img src="https://img.shields.io/badge/languages-C%2B%2B20%20%C2%B7%20C%20%C2%B7%20Python%20%C2%B7%20JS%20%2F%20TS%20%C2%B7%20Lua-000000?style=for-the-badge&labelColor=ffffff" alt="languages" /><br/>
+  <img src="https://img.shields.io/badge/graphics-Direct3D%2011%20%C2%B7%20HLSL%20%C2%B7%20Dear%20ImGui-000000?style=for-the-badge&labelColor=ffffff" alt="graphics" /><br/>
+  <img src="https://img.shields.io/badge/systems-WinAPI%20%C2%B7%20x64%20%C2%B7%20V8%20%C2%B7%20Panorama-000000?style=for-the-badge&labelColor=ffffff" alt="systems" /><br/>
+  <img src="https://img.shields.io/badge/tools-IDA%20Pro%20%C2%B7%20Visual%20Studio%20%C2%B7%20Git%20%C2%B7%20CMake-000000?style=for-the-badge&labelColor=ffffff" alt="tools" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Direct3D_11-0b0b14?style=for-the-badge&logo=windows&logoColor=b07cff" />
-  <img src="https://img.shields.io/badge/V8-0b0b14?style=for-the-badge&logo=v8&logoColor=b07cff" />
-  <img src="https://img.shields.io/badge/Dear_ImGui-0b0b14?style=for-the-badge&logo=c%2B%2B&logoColor=b07cff" />
-  <img src="https://img.shields.io/badge/IDA_Pro-0b0b14?style=for-the-badge&logo=hackaday&logoColor=b07cff" />
-  <img src="https://img.shields.io/badge/x64_asm-0b0b14?style=for-the-badge&logo=intel&logoColor=b07cff" />
-  <img src="https://img.shields.io/badge/HLSL-0b0b14?style=for-the-badge&logo=opengl&logoColor=b07cff" />
-</p>
-
-### Activity
+#### activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Thienlaoqwe&theme=tokyonight&hide_border=true&background=0D0D1A&ring=B07CFF&fire=B07CFF&currStreakLabel=B07CFF" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=Thienlaoqwe&hide_border=true&background=000000&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=9A9A9A&dates=6B6B6B" alt="streak" />
 </p>
 
 <p align="center">
@@ -62,9 +51,3 @@ struct Max {
     <img src="https://raw.githubusercontent.com/Thienlaoqwe/Thienlaoqwe/output/snake-dark.svg" alt="contribution snake" />
   </picture>
 </p>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1dff,50:3b0a5c,100:0d0d1a&height=110&section=footer" width="100%" alt="" />
-
-</div>
