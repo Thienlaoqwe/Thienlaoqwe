@@ -32,10 +32,10 @@ struct thienlao {
 #### stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/languages-C%2B%2B20%20%C2%B7%20C%20%C2%B7%20Python%20%C2%B7%20JS%20%2F%20TS%20%C2%B7%20Lua-000000?style=for-the-badge&labelColor=ffffff" alt="languages" /><br/>
-  <img src="https://img.shields.io/badge/graphics-Direct3D%2011%20%C2%B7%20HLSL%20%C2%B7%20Dear%20ImGui-000000?style=for-the-badge&labelColor=ffffff" alt="graphics" /><br/>
-  <img src="https://img.shields.io/badge/systems-WinAPI%20%C2%B7%20x64%20%C2%B7%20V8%20%C2%B7%20Panorama-000000?style=for-the-badge&labelColor=ffffff" alt="systems" /><br/>
-  <img src="https://img.shields.io/badge/tools-IDA%20Pro%20%C2%B7%20Visual%20Studio%20%C2%B7%20Git%20%C2%B7%20CMake-000000?style=for-the-badge&labelColor=ffffff" alt="tools" />
+  <b>languages</b> &nbsp;<code>C++20</code> <code>C</code> <code>Python</code> <code>JS / TS</code> <code>Lua</code><br/>
+  <b>graphics</b> &nbsp;<code>Direct3D 11</code> <code>HLSL</code> <code>Dear ImGui</code><br/>
+  <b>systems</b> &nbsp;<code>WinAPI</code> <code>x64</code> <code>V8</code> <code>Panorama</code><br/>
+  <b>tools</b> &nbsp;<code>IDA Pro</code> <code>Visual Studio</code> <code>Git</code> <code>CMake</code>
 </p>
 
 #### activity
